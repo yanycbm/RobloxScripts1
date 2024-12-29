@@ -22,3 +22,4 @@ function love.draw()
         love.graphics.print("Нажмите пробел для скрытия.", 400, 320)
     end
 end
+print("by t.me/lscriptsua<3")
